@@ -7,15 +7,12 @@ A plugin based on Exiled for SCP:SL. This Plugin allowed players who was acciden
 It's a passive Plugin. Full Auto.
 
 Events:
-
-'WaitingForPlayers'
-
-'Verified'
-
-'Roundstarted'
-
-'Left'
-
+```
+WaitingForPlayers
+Verified
+Roundstarted
+Left
+```
 
 # Chinese
 
@@ -25,11 +22,10 @@ Events:
 
 使用的事件：
 
-'WaitingForPlayers'
-
-'Verified'
-
-'Roundstarted'
-
-'Left'
+```
+WaitingForPlayers
+Verified
+Roundstarted
+Left
+```
 
