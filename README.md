@@ -1,6 +1,8 @@
 # AutoReconnect
 
+
 本仓库已废弃，请移步至 [AutoReconnect-Remastered](https://github.com/XKaguya/AutoReconnect-Remastered) 查看最新项目。
+
 
 This repository has been archived.For more information see: [AutoReconnect-Remastered](https://github.com/XKaguya/AutoReconnect-Remastered).
 
