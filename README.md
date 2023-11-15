@@ -1,5 +1,7 @@
 # AutoReconnect
 
+This repository has been archived.For more information see: [AutoReconnect-Remastered]https://github.com/XKaguya/AutoReconnect-Remastered
+
 # English
 
 A plugin based on Exiled for SCP:SL. This Plugin allowed players who was accidently disconnected from server to spawn what the player was.
